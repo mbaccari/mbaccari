@@ -13,7 +13,9 @@ brought on many projects, and led teams of developers to deliver quality product
 <br>
 I know I haven't been in the industry for as long as others,
 <br>
-but with my desire to learn and lead, I am a great tool to have in any development environment.
+but with my desire to learn and lead, 
+<br>
+I am a great tool to have in any development environment.
 <br>
 <br>
 
