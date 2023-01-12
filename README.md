@@ -44,6 +44,5 @@ const Mbaccari = {
 ```
 <br>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mbaccari&theme=gruvbox&hide_border=true" />
 </p>
